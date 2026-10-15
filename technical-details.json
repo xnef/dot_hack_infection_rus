@@ -1,0 +1,66 @@
+{
+  "source_iso_sha256": "86f59b3e30012f8b4650c1dc891af9e3aec1663df49120b7eb00c5ebc2672faf",
+  "files": {
+    "main": {
+      "iso_path": [
+        "SLUS_202.67"
+      ],
+      "source_sha256": "75cba9ed447c61867ed0ab9cde426570f0074b8f0ff9fee2a03645d062113cec",
+      "target_sha256": "50826c52a50df35755ae60b948bf511544554cac6c60ade21827a7d86ced8f6a",
+      "size": 19223388,
+      "patch": "main-ru.xdelta"
+    },
+    "gcmn": {
+      "iso_path": [
+        "DATA",
+        "GCMN.PRG"
+      ],
+      "source_sha256": "bda77d15c973904db8fe4277864d67e387e943e27ab4109accd725e769b90ff1",
+      "target_sha256": "c0baf85a792372e2c75caba6d9fe9facc81e2c718b76e3f6880c098e2bd71fad",
+      "size": 3121280,
+      "patch": "gcmn-ru.xdelta"
+    },
+    "desktop": {
+      "iso_path": [
+        "DATA",
+        "DESKTOP.PRG"
+      ],
+      "source_sha256": "e96ea97f35ae67a2af224c71737191ed97804c65535e97493f78cd28ee67ed68",
+      "target_sha256": "14f30927e452419bf2cd1da4c9c9b15b6a5e8d2b5d6293f00a4e2e06d3ed4e2a",
+      "size": 432128,
+      "patch": "desktop-ru.xdelta"
+    },
+    "toppage": {
+      "iso_path": [
+        "DATA",
+        "TOPPAGE.PRG"
+      ],
+      "source_sha256": "237ed6aa73832fdb67341ab7a4fa5935976446a87ab85e163c538ac64566a2e4",
+      "target_sha256": "384c90632c947befafcbf8b63312e8516cf32cd86f819ea2867f9e97ff63d4b3",
+      "size": 172800,
+      "patch": "toppage-ru.xdelta"
+    },
+    "data": {
+      "iso_path": [
+        "DATA",
+        "DATA.BIN"
+      ],
+      "source_sha256": "a3cec72407f4ffd1e307eea9b66e80616ab3c5e460d8179d42ef7bb37d5b1439",
+      "target_sha256": "b250ba146266cf6c2a16380fe29fa12b3e777d9680a19b28fa4968b529847f95",
+      "size": 136665088,
+      "patch": "data-ru.xdelta"
+    }
+  },
+  "font_base": "cyrillic-v3",
+  "segment_file_bytes": 242915,
+  "heap_start": "0x76c000",
+  "mail_records": 326,
+  "reply_records": 294,
+  "bbs_records": 341,
+  "threads": 63,
+  "news_pages": 69,
+  "news_pages_retypeset": 68,
+  "corrupted_news_preserved": 1,
+  "dialogue_descriptors": 2304,
+  "scope": "Cumulative dialogue, font, mail, replies, BBS and news patch. Item descriptions and general UI remain outside scope. Includes source-resident records which may be unused in Part 1."
+}

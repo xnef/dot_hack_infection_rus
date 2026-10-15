@@ -1,0 +1,41 @@
+{
+  "runtime": {
+    "startup_and_heap": "pass",
+    "reply_initializer": 294,
+    "mail_reply_lines": 3676,
+    "bbs_lines": 1504,
+    "dynamic_ranking": "pass",
+    "body_widths": 3398,
+    "sample_rasters": 25,
+    "full_pcsx2": "unavailable; gameplay verification pending"
+  },
+  "iso": {
+    "fixture_files": 5,
+    "apply": "pass",
+    "unrelated_bytes": "unchanged",
+    "original": "unchanged",
+    "size": "unchanged",
+    "wrong_sha256": "rejected",
+    "existing_output": "rejected",
+    "whole_iso_xdelta_roundtrip": "pass",
+    "real_full_iso_available": false
+  },
+  "news": {
+    "replaced_members": 68,
+    "unmodified_archive_ranges": "byte-identical",
+    "ccs_headers_palettes_footers": "byte-identical",
+    "decompressed_sizes": "unchanged",
+    "gzip_roundtrips": "pass",
+    "page_fit": "pass",
+    "intentional_corruption": "unchanged"
+  },
+  "dialogue_regression": {
+    "previous_font_and_dialogue_pool": "byte-identical",
+    "previous_dialogue_pointers": "unchanged",
+    "gcmn": "previous verified target reused",
+    "elf_changes": "limited to appended desktop strings, heap/segment metadata, news compressed byte counts"
+  },
+  "file_xdelta_roundtrips": "all five passed",
+  "control_codes": "all 961 source records validated before layout",
+  "title_layout_issues": []
+}

@@ -1,0 +1,569 @@
+[
+  {
+    "id": "thread:0",
+    "table_va": "0x406450",
+    "title": "System Explanation",
+    "start": 0,
+    "count": 20,
+    "title_va": "0x418fa0",
+    "translation": "Как устроена игра"
+  },
+  {
+    "id": "thread:1",
+    "table_va": "0x40645c",
+    "title": "Play Knowledge",
+    "start": 20,
+    "count": 5,
+    "title_va": "0x418fb8",
+    "translation": "Полезно знать"
+  },
+  {
+    "id": "thread:2",
+    "table_va": "0x406468",
+    "title": "Coma",
+    "start": 25,
+    "count": 2,
+    "title_va": "0x418fc8",
+    "translation": "Кома"
+  },
+  {
+    "id": "thread:3",
+    "table_va": "0x406474",
+    "title": "Is This an Event Character?",
+    "start": 27,
+    "count": 7,
+    "title_va": "0x418fd0",
+    "translation": "Это персонаж события?"
+  },
+  {
+    "id": "thread:4",
+    "table_va": "0x406480",
+    "title": "Test Version of \"The World\"",
+    "start": 34,
+    "count": 15,
+    "title_va": "0x418ff0",
+    "translation": "Пробная версия \"The World\""
+  },
+  {
+    "id": "thread:5",
+    "table_va": "0x40648c",
+    "title": "Protected Area",
+    "start": 49,
+    "count": 5,
+    "title_va": "0x419010",
+    "translation": "Защищённая область"
+  },
+  {
+    "id": "thread:6",
+    "table_va": "0x406498",
+    "title": "MISSING",
+    "start": 54,
+    "count": 8,
+    "title_va": "0x419020",
+    "translation": "ПРОПАВШИЕ"
+  },
+  {
+    "id": "thread:7",
+    "table_va": "0x4064a4",
+    "title": "Virus?",
+    "start": 62,
+    "count": 26,
+    "title_va": "0x419028",
+    "translation": "Вирус?"
+  },
+  {
+    "id": "thread:8",
+    "table_va": "0x4064b0",
+    "title": "To Orca",
+    "start": 88,
+    "count": 8,
+    "title_va": "0x419030",
+    "translation": "Орке"
+  },
+  {
+    "id": "thread:9",
+    "table_va": "0x4064bc",
+    "title": "Let's Play Tag",
+    "start": 96,
+    "count": 5,
+    "title_va": "0x419038",
+    "translation": "Поиграем в салки"
+  },
+  {
+    "id": "thread:10",
+    "table_va": "0x4064c8",
+    "title": "Increasing Levels",
+    "start": 101,
+    "count": 2,
+    "title_va": "0x419050",
+    "translation": "Как поднять уровень"
+  },
+  {
+    "id": "thread:11",
+    "table_va": "0x4064d4",
+    "title": "Weapon Information",
+    "start": 103,
+    "count": 6,
+    "title_va": "0x419070",
+    "translation": "Информация об оружии"
+  },
+  {
+    "id": "thread:12",
+    "table_va": "0x4064e0",
+    "title": "Miss Gardenia Fan Club!!",
+    "start": 109,
+    "count": 13,
+    "title_va": "0x419090",
+    "translation": "Фан-клуб мисс Гардении!!"
+  },
+  {
+    "id": "thread:13",
+    "table_va": "0x4064ec",
+    "title": "Epitaph of Twilight",
+    "start": 122,
+    "count": 7,
+    "title_va": "0x40cef0",
+    "translation": "Эпитафия Сумерек"
+  },
+  {
+    "id": "thread:14",
+    "table_va": "0x4064f8",
+    "title": "Let's Play Tag Take 2",
+    "start": 129,
+    "count": 5,
+    "title_va": "0x4190b0",
+    "translation": "Поиграем в салки 2"
+  },
+  {
+    "id": "thread:15",
+    "table_va": "0x406504",
+    "title": "Nuke Usagimaru Show",
+    "start": 134,
+    "count": 1,
+    "title_va": "0x4190d0",
+    "translation": "Шоу Нукэ Усагимару"
+  },
+  {
+    "id": "thread:16",
+    "table_va": "0x406510",
+    "title": "Trading Convention",
+    "start": 135,
+    "count": 1,
+    "title_va": "0x4190f0",
+    "translation": "Собрание для обмена"
+  },
+  {
+    "id": "thread:17",
+    "table_va": "0x40651c",
+    "title": "Level Up?!",
+    "start": 136,
+    "count": 3,
+    "title_va": "0x419108",
+    "translation": "Уровень вырос?!"
+  },
+  {
+    "id": "thread:18",
+    "table_va": "0x406528",
+    "title": "To #0",
+    "start": 139,
+    "count": 1,
+    "title_va": "0x419118",
+    "translation": "Для #0"
+  },
+  {
+    "id": "thread:19",
+    "table_va": "0x406534",
+    "title": "Hackers",
+    "start": 140,
+    "count": 10,
+    "title_va": "0x419120",
+    "translation": "Хакеры"
+  },
+  {
+    "id": "thread:20",
+    "table_va": "0x406540",
+    "title": "I Can't Defeat It",
+    "start": 150,
+    "count": 7,
+    "title_va": "0x419130",
+    "translation": "Не могу его победить"
+  },
+  {
+    "id": "thread:21",
+    "table_va": "0x40654c",
+    "title": "Item Usage",
+    "start": 157,
+    "count": 5,
+    "title_va": "0x419148",
+    "translation": "Как пользоваться предметами"
+  },
+  {
+    "id": "thread:22",
+    "table_va": "0x406558",
+    "title": "People in Comas",
+    "start": 162,
+    "count": 4,
+    "title_va": "0x419160",
+    "translation": "Люди в коме"
+  },
+  {
+    "id": "thread:23",
+    "table_va": "0x406564",
+    "title": "Cursed Area Information",
+    "start": 166,
+    "count": 2,
+    "title_va": "0x419170",
+    "translation": "О проклятой области"
+  },
+  {
+    "id": "thread:24",
+    "table_va": "0x406570",
+    "title": "Let's Play Tag Returns",
+    "start": 168,
+    "count": 5,
+    "title_va": "0x419190",
+    "translation": "Салки возвращаются"
+  },
+  {
+    "id": "thread:25",
+    "table_va": "0x40657c",
+    "title": "Rachel's Delivery Service",
+    "start": 173,
+    "count": 2,
+    "title_va": "0x4191b0",
+    "translation": "Служба доставки Рэйчел"
+  },
+  {
+    "id": "thread:26",
+    "table_va": "0x406588",
+    "title": "I'm Terajima Ryoko",
+    "start": 175,
+    "count": 1,
+    "title_va": "0x4191d0",
+    "translation": "Я Рёко Тэраджима"
+  },
+  {
+    "id": "thread:27",
+    "table_va": "0x406594",
+    "title": "To the One Who Plays the Flute",
+    "start": 176,
+    "count": 4,
+    "title_va": "0x4191f0",
+    "translation": "Тому, кто играет на флейте"
+  },
+  {
+    "id": "thread:28",
+    "table_va": "0x4065a0",
+    "title": "New Let's Play Tag",
+    "start": 180,
+    "count": 5,
+    "title_va": "0x419210",
+    "translation": "Новые салки"
+  },
+  {
+    "id": "thread:29",
+    "table_va": "0x4065ac",
+    "title": "Zeit Statue",
+    "start": 185,
+    "count": 2,
+    "title_va": "0x419228",
+    "translation": "Статуя Цайт"
+  },
+  {
+    "id": "thread:30",
+    "table_va": "0x4065b8",
+    "title": "Rachel Rescue Service",
+    "start": 187,
+    "count": 1,
+    "title_va": "0x419240",
+    "translation": "Служба спасения Рэйчел"
+  },
+  {
+    "id": "thread:31",
+    "table_va": "0x4065c4",
+    "title": "New Transportation System",
+    "start": 188,
+    "count": 2,
+    "title_va": "0x419260",
+    "translation": "Новая транспортная система"
+  },
+  {
+    "id": "thread:32",
+    "table_va": "0x4065d0",
+    "title": "\"The World\" Reaches 20 Million!",
+    "start": 190,
+    "count": 4,
+    "title_va": "0x419280",
+    "translation": "\"The World\": 20 миллионов!"
+  },
+  {
+    "id": "thread:33",
+    "table_va": "0x4065dc",
+    "title": "Neuro Goggle FMD",
+    "start": 194,
+    "count": 10,
+    "title_va": "0x4192a0",
+    "translation": "Neuro Goggle FMD"
+  },
+  {
+    "id": "thread:34",
+    "table_va": "0x4065e8",
+    "title": "Net Phone Box",
+    "start": 204,
+    "count": 1,
+    "title_va": "0x4109f8",
+    "translation": "Сетевой таксофон"
+  },
+  {
+    "id": "thread:35",
+    "table_va": "0x4065f4",
+    "title": "ALTIMIT",
+    "start": 205,
+    "count": 12,
+    "title_va": "0x4192b8",
+    "translation": "ALTIMIT"
+  },
+  {
+    "id": "thread:36",
+    "table_va": "0x406600",
+    "title": "WonderHawk",
+    "start": 217,
+    "count": 2,
+    "title_va": "0x4192c0",
+    "translation": "WonderHawk"
+  },
+  {
+    "id": "thread:37",
+    "table_va": "0x40660c",
+    "title": "Network Safety Law",
+    "start": 219,
+    "count": 5,
+    "title_va": "0x4192d0",
+    "translation": "Закон о безопасности сети"
+  },
+  {
+    "id": "thread:38",
+    "table_va": "0x406618",
+    "title": "International Geographic Discontinued",
+    "start": 224,
+    "count": 3,
+    "title_va": "0x4192f0",
+    "translation": "Журнал закрывается"
+  },
+  {
+    "id": "thread:39",
+    "table_va": "0x406624",
+    "title": "5 Years Since Net Crisis",
+    "start": 227,
+    "count": 3,
+    "title_va": "0x419320",
+    "translation": "Пять лет после сетевого кризиса"
+  },
+  {
+    "id": "thread:40",
+    "table_va": "0x406630",
+    "title": "Mega Float",
+    "start": 230,
+    "count": 2,
+    "title_va": "0x419340",
+    "translation": "Мегафлот"
+  },
+  {
+    "id": "thread:41",
+    "table_va": "0x40663c",
+    "title": "Smoking Regulation Law",
+    "start": 232,
+    "count": 3,
+    "title_va": "0x419350",
+    "translation": "Ограничение курения"
+  },
+  {
+    "id": "thread:42",
+    "table_va": "0x406648",
+    "title": "CC Corporation Account",
+    "start": 235,
+    "count": 2,
+    "title_va": "0x419370",
+    "translation": "Отчёт CC Corporation"
+  },
+  {
+    "id": "thread:43",
+    "table_va": "0x406654",
+    "title": "New Generation Cellphones",
+    "start": 237,
+    "count": 2,
+    "title_va": "0x419390",
+    "translation": "Мобильники нового поколения"
+  },
+  {
+    "id": "thread:44",
+    "table_va": "0x406660",
+    "title": "Online Sex Shop Caught",
+    "start": 239,
+    "count": 5,
+    "title_va": "0x4193b0",
+    "translation": "Сетевой секс-бизнес раскрыт"
+  },
+  {
+    "id": "thread:45",
+    "table_va": "0x40666c",
+    "title": "Equation for the Future",
+    "start": 244,
+    "count": 11,
+    "title_va": "0x4193d0",
+    "translation": "Формула будущего"
+  },
+  {
+    "id": "thread:46",
+    "table_va": "0x406678",
+    "title": "Me & Her Tickets",
+    "start": 255,
+    "count": 7,
+    "title_va": "0x4193f0",
+    "translation": "Билеты на Me & Her"
+  },
+  {
+    "id": "thread:47",
+    "table_va": "0x406684",
+    "title": "Future Bay",
+    "start": 262,
+    "count": 2,
+    "title_va": "0x419408",
+    "translation": "Минато-Мирай"
+  },
+  {
+    "id": "thread:48",
+    "table_va": "0x406690",
+    "title": "Garbled News",
+    "start": 264,
+    "count": 4,
+    "title_va": "0x419418",
+    "translation": "Нечитаемые новости"
+  },
+  {
+    "id": "thread:49",
+    "table_va": "0x40669c",
+    "title": "Abnormal State",
+    "start": 268,
+    "count": 4,
+    "title_va": "0x419428",
+    "translation": "Что-то неладное"
+  },
+  {
+    "id": "thread:50",
+    "table_va": "0x4066a8",
+    "title": "WNC Disbands",
+    "start": 272,
+    "count": 4,
+    "title_va": "0x419438",
+    "translation": "WNC распускается"
+  },
+  {
+    "id": "thread:51",
+    "table_va": "0x4066b4",
+    "title": "Leaving the Hospital",
+    "start": 276,
+    "count": 3,
+    "title_va": "0x419450",
+    "translation": "Выписка из больницы"
+  },
+  {
+    "id": "thread:52",
+    "table_va": "0x4066c0",
+    "title": "Awesome Guys",
+    "start": 279,
+    "count": 4,
+    "title_va": "0x419468",
+    "translation": "Крутые ребята"
+  },
+  {
+    "id": "thread:53",
+    "table_va": "0x4066cc",
+    "title": "Keyword Creation",
+    "start": 283,
+    "count": 10,
+    "title_va": "0x419480",
+    "translation": "Создание ключевых слов"
+  },
+  {
+    "id": "thread:54",
+    "table_va": "0x4066d8",
+    "title": "What's a Grunty?",
+    "start": 293,
+    "count": 13,
+    "title_va": "0x415cc0",
+    "translation": "Что такое грунти?"
+  },
+  {
+    "id": "thread:55",
+    "table_va": "0x4066e4",
+    "title": "Spring of Myst",
+    "start": 306,
+    "count": 9,
+    "title_va": "0x419498",
+    "translation": "Источник Миста"
+  },
+  {
+    "id": "thread:56",
+    "table_va": "0x4066f0",
+    "title": "Item Trade",
+    "start": 315,
+    "count": 3,
+    "title_va": "0x4194a8",
+    "translation": "Обмен предметами"
+  },
+  {
+    "id": "thread:57",
+    "table_va": "0x4066fc",
+    "title": "Symbol",
+    "start": 318,
+    "count": 2,
+    "title_va": "0x4194b8",
+    "translation": "Символ"
+  },
+  {
+    "id": "thread:58",
+    "table_va": "0x406708",
+    "title": "Long time no see",
+    "start": 320,
+    "count": 3,
+    "title_va": "0x4194c0",
+    "translation": "Давно не виделись"
+  },
+  {
+    "id": "thread:59",
+    "table_va": "0x406714",
+    "title": "Phantom",
+    "start": 323,
+    "count": 3,
+    "title_va": "0x4194d8",
+    "translation": "Призрак"
+  },
+  {
+    "id": "thread:60",
+    "table_va": "0x406720",
+    "title": "During the Previous Version",
+    "start": 326,
+    "count": 5,
+    "title_va": "0x4194e0",
+    "translation": "В прежней версии"
+  },
+  {
+    "id": "thread:61",
+    "table_va": "0x40672c",
+    "title": "Justice and Peace",
+    "start": 331,
+    "count": 3,
+    "title_va": "0x419500",
+    "translation": "Справедливость и мир"
+  },
+  {
+    "id": "thread:62",
+    "table_va": "0x406738",
+    "title": "Version Upgrade Information: #RImportant#W",
+    "start": 334,
+    "count": 7,
+    "title_va": "0x419520",
+    "translation": "Обновление: #RВажно#W"
+  }
+]
