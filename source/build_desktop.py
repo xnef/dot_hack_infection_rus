@@ -83,8 +83,8 @@ for n in cat['news']:
  t=news[n['id']]['title']
  if t!='@KEEP@':put('DESKTOP',int(n['table_va'],16),2,string(t.replace('%','%%')))
 # Dynamic ranking prefixes are materialized in small local buffers by the
-# original routine. Redirect both LUI+ADDIU pairs to their Russian prefixes.
-for hi,lo,s in [(0x40454c,0x404550,'#WВремя: '),(0x404560,0x404564,'Игрок: '),(0x404370,0x404374,'Автор: ')]:
+# original routine. Author strlen and strcpy MUST use the same prefix.
+for hi,lo,s in [(0x40454c,0x404550,'#WВремя: '),(0x404560,0x404564,'Игрок: '),(0x404370,0x404374,'Автор: '),(0x404398,0x40439c,'Автор: ')]:
  p=string(s)
  for va,imm in [(hi,(p+0x8000)>>16),(lo,p)]:
   pos=va-OV;v=struct.unpack_from('<I',files['TOPPAGE'],pos)[0];struct.pack_into('<I',files['TOPPAGE'],pos,(v&0xffff0000)|(imm&65535))

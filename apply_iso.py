@@ -63,8 +63,8 @@ def apply(source, exe, make_iso_patch=False, expected_iso_sha=None):
     folder = Path(__file__).resolve().parent
     manifest = json.loads((folder / 'technical-details.json').read_text(encoding='utf-8'))
     source, exe = Path(source).resolve(), Path(exe).resolve()
-    output = source.with_name(source.stem + '.desktop-ru-v1.iso')
-    iso_patch = source.with_name(source.stem + '.desktop-ru-v1.xdelta')
+    output = source.with_name(source.stem + '.desktop-ru-v2.iso')
+    iso_patch = source.with_name(source.stem + '.desktop-ru-v2.xdelta')
     if not exe.is_file():
         raise ValueError('Place xdelta3.exe beside this script, or specify --xdelta PATH.')
     if output.exists() or (make_iso_patch and iso_patch.exists()):

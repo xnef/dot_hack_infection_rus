@@ -37,5 +37,49 @@
   },
   "file_xdelta_roundtrips": "all five passed",
   "control_codes": "all 961 source records validated before layout",
-  "title_layout_issues": []
+  "title_layout_issues": [],
+  "logout_fix_v2": {
+    "guarded_bbs_v1_overruns": 341,
+    "guarded_bbs_v2_overruns": 0,
+    "real_game_allocator": {
+      "v1_real_True": {
+        "count": 35,
+        "failure": "bbs:35",
+        "error": "AssertionError()"
+      },
+      "v2_real_True": {
+        "count": 341,
+        "overruns": 0
+      }
+    },
+    "expanded_runtime": {
+      "startup_and_heap": "pass",
+      "reply_initializer": 294,
+      "mail_reply_lines": 3676,
+      "bbs_lines": 1504,
+      "dynamic_ranking": "pass",
+      "body_widths": 3398,
+      "sample_rasters": 25,
+      "full_pcsx2": "unavailable; gameplay verification pending"
+    },
+    "all_allocation_guards": "pass: mail, replies, BBS, ranking",
+    "pcsx2_story_transition": "not run here",
+    "iso": {
+      "fixture_files": 5,
+      "apply": "pass",
+      "unrelated_bytes": "unchanged",
+      "original": "unchanged",
+      "size": "unchanged",
+      "wrong_sha256": "rejected",
+      "existing_output": "rejected",
+      "whole_iso_xdelta_roundtrip": "pass",
+      "real_full_iso_available": false
+    },
+    "repair_v1": {
+      "exact_v2_output": true,
+      "source_unchanged": true,
+      "reject_wrong_build": true,
+      "reject_existing_output": true
+    }
+  }
 }

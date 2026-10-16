@@ -36,7 +36,7 @@
         "TOPPAGE.PRG"
       ],
       "source_sha256": "237ed6aa73832fdb67341ab7a4fa5935976446a87ab85e163c538ac64566a2e4",
-      "target_sha256": "384c90632c947befafcbf8b63312e8516cf32cd86f819ea2867f9e97ff63d4b3",
+      "target_sha256": "9edaf3c7dc16c6236abda1d8a1c4df21b8eedfb11cf827e992cbc5634a6d2ef4",
       "size": 172800,
       "patch": "toppage-ru.xdelta"
     },
@@ -62,5 +62,27 @@
   "news_pages_retypeset": 68,
   "corrupted_news_preserved": 1,
   "dialogue_descriptors": 2304,
-  "scope": "Cumulative dialogue, font, mail, replies, BBS and news patch. Item descriptions and general UI remain outside scope. Includes source-resident records which may be unused in Part 1."
+  "scope": "Cumulative dialogue, font, mail, replies, BBS and news patch. Item descriptions and general UI remain outside scope. Includes source-resident records which may be unused in Part 1.",
+  "version": "desktop-ru-v2",
+  "hotfix": {
+    "source_toppage_sha256": "384c90632c947befafcbf8b63312e8516cf32cd86f819ea2867f9e97ff63d4b3",
+    "changes": [
+      {
+        "offset": 15256,
+        "before": 65,
+        "after": 119
+      },
+      {
+        "offset": 15260,
+        "before": 80,
+        "after": 219
+      },
+      {
+        "offset": 15261,
+        "before": 134,
+        "after": 186
+      }
+    ],
+    "reason": "Match BBS author allocation and copy prefix pointers; prevent one-byte overflow."
+  }
 }
